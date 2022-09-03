@@ -7,4 +7,4 @@ https://github.com/mobizt/ESP-Mail-Client<br/>
 Go to Sketch > Include Library > Manage Libraries<br/>
 Search for Firebase ESP Client and install the Firebase Arduino Client Library for ESP8266 and ESP32 by Mobitz.<br/>
 ## **Install arduino-DHT-master**:<br/>
-Already given
+Already provided
