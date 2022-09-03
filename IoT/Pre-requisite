@@ -1,0 +1,8 @@
+#Install ArduinoJson:
+Go to Sketch > Include Library > Manage Libraries
+Search for ArduinoJson and install the ArduinoJson(version should be same as board version).
+#Install ESP-Mail-Client-master:
+https://github.com/mobizt/ESP-Mail-Client
+#Install Firebase_Arduino_Client_Library_for_ESP8266_and_ESP32: 
+Go to Sketch > Include Library > Manage Libraries
+Search for Firebase ESP Client and install the Firebase Arduino Client Library for ESP8266 and ESP32 by Mobitz.
